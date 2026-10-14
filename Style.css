@@ -1,0 +1,24 @@
+*{
+    background-color: blueviolet;
+}
+h1{
+    color:blue;
+    background-color:yellowgreen;
+}
+
+p{ 
+    color:green
+}
+
+ul{
+    color:brown;
+}
+
+ol{
+    color:orangered;
+}
+
+img{
+    border-radius:10%;
+    border: 20px solid brown;
+}
